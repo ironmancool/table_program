@@ -1,6 +1,7 @@
 # table_program
 
-The html file contains two tables. It is created by Po-Chun who gets help from DataTables and two contributors in
+The html file contains two tables (with two tabs, more fancy haha). It contains all the basic functions in datatables
+It is created by Po-Chun who gets help from DataTables and two contributors in
 
 https://github.com/DataTables/DataTables/blob/master/examples/api/tabs_and_scrolling.html
 
